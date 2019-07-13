@@ -76,7 +76,7 @@
 
 }
 .first{
-  padding: 50px;
+  padding: 80px;
   width: 90%;
   background-color: #f1f1f1;
   height: 900px; 
@@ -102,7 +102,6 @@
   text-indent: 7px;
   letter-spacing: 2px;
 }
-
 .fa{
   padding:20px;
   font-size:30px;
@@ -113,15 +112,29 @@
   justify-content:right;
   display:inline-block;
 }
+.fa:hover {
+  opacity: 0.7;
+}
 
-.fa:hover{
-  opacity:0.7;
+
+.fa-instagram {
+  background: #125688;
+  color: white;
 }
-.fa-facebook{
-  background: black;
-  color:white;
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
 }
-.fa-instagram{
-  background: black;
-  color:white;
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+.fa-facebook {
+background: #3B5998;
+color: white;
 }
