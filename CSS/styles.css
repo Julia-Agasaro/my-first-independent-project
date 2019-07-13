@@ -1,42 +1,127 @@
-.intro{
-  height: 100%;
-  width: 100%;
-  background-image: linear-gradient(rgba(26,26,26,0.7),rgba(26,26,26,0.7)), url("../Image/221117.jpg");
+.Image{
+  background-image:linear-gradient(rgba(26,26,26,0.7),rgba(26,26,26,0.7)), url("../Image/221117.jpg");
+
+  min-height: 500px;
+  
+
+  /* Center and scale of the image */
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
-  background-repeat: no-repeat; 
-  background-position: center center;
+  
+  /* Needed to position the navbar */
+  position: relative;
+  padding:80px;
 }
-ul{
-    float:right;
-    list-style-type:none;
-    margin-top:0;
-    
-  }
-  ul li{
-    display:inline-block;
-  }
-  ul li a{
-    padding:4px 6px;
-    overflow:hidden;
-    text-align:center;
-    text-decoration:none;
-    font-family:"roboto", sans serif;
-    border:1px solid transparent;
-    color:Black;
-    transition:0.6s ease;
-  }
-  ul li a:hover{
-    background-color:black;
-    color:white;
-  }
-  ul li.active a{
-    background-color:black;
-    color:white;
-  }
+
+/* Position the navbar container inside the image */
 .container {
-    position:absolute;
-    left: 0;
-    top: 0;
-    width:100%;
-    height: 100%;
+  position: absolute;
+  margin: 20px;
+  width: auto;
+}
+.hero-text {
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.4);
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.nav {
+  overflow: hidden;
+  background-color: #333;
+}
+.nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 40px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.container {
+  position: absolute;
+  margin: 10px;
+  width: auto;
+  
+
+}
+.text-block{
+  padding: 100px;
+  position: absolute;
+  widows: 8000px;
+  height: 8000px;
+  margin-left: 0;
+  margin-right: 0;
+  position: Center;
+
+}
+.first{
+  padding: 50px;
+  width: 90%;
+  background-color: #f1f1f1;
+  height: 900px; 
+  text-indent: 3px;
+  letter-spacing: 2px;
+  
+  
+
+}
+.second{
+  padding: 50px;
+  width: 90%;
+  background-color: #f1f1f1;
+  height: 900px; 
+  text-indent: 7px;
+  letter-spacing: 2px;
+}
+.fourth{
+  padding: 50px;
+  width: 90%;
+  background-color: #f1f1f1;
+  height: 900px; 
+  text-indent: 7px;
+  letter-spacing: 2px;
+}
+
+.fa{
+  padding:20px;
+  font-size:30px;
+  width:10px;
+  text-align:center;
+  text-decoration:none;
+  margin:4px 2px;
+  justify-content:right;
+  display:inline-block;
+}
+
+.fa:hover{
+  opacity:0.7;
+}
+.fa-facebook{
+  background: black;
+  color:white;
+}
+.fa-instagram{
+  background: black;
+  color:white;
 }
