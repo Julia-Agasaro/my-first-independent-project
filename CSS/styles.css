@@ -12,6 +12,7 @@
   /* Needed to position the navbar */
   position: relative;
   padding:80px;
+  width:90%;
 }
 
 /* Position the navbar container inside the image */
@@ -79,26 +80,40 @@
   padding: 80px;
   width: 90%;
   background-color: #f1f1f1;
-  height: 900px; 
+  height: 600px; 
   text-indent: 3px;
   letter-spacing: 2px;
   
   
 
 }
+img.sticky {
+  float: right;
+  top: 0;
+  width: 200px;
+  
+}
 .second{
-  padding: 50px;
+  padding: 80px;
   width: 90%;
   background-color: #f1f1f1;
-  height: 900px; 
+  height: 600px; 
   text-indent: 7px;
   letter-spacing: 2px;
 }
-.fourth{
-  padding: 50px;
+.third{
+  padding: 80px;
   width: 90%;
   background-color: #f1f1f1;
-  height: 900px; 
+  height: 600px; 
+  text-indent: 7px;
+  letter-spacing: 2px; 
+}
+.fourth{
+  padding: 80px;
+  width: 90%;
+  background-color: #f1f1f1;
+  height: 600px; 
   text-indent: 7px;
   letter-spacing: 2px;
 }
