@@ -83,6 +83,7 @@
   height: 600px; 
   text-indent: 3px;
   letter-spacing: 2px;
+   border: 20px solid black;
   
   
 
@@ -100,14 +101,16 @@ img.sticky {
   height: 600px; 
   text-indent: 7px;
   letter-spacing: 2px;
+  border: 20px solid black;
 }
 .third{
-  padding: 80px;
+  padding: 100px;
   width: 90%;
   background-color: #f1f1f1;
-  height: 600px; 
+  height: 700px; 
   text-indent: 7px;
   letter-spacing: 2px; 
+  border: 20px solid black;
 }
 .fourth{
   padding: 80px;
@@ -116,6 +119,7 @@ img.sticky {
   height: 600px; 
   text-indent: 7px;
   letter-spacing: 2px;
+  border: 20px solid black;
 }
 .fa{
   padding:20px;
