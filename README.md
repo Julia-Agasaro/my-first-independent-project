@@ -16,9 +16,9 @@ Agasaro Julia
 
 
 **Links To my Websites**
-1. https://julia-agasaro.github.io/my-first-independent-project/
-1.https://julia-agasaro.github.io/Project2/
-2. https://julia-agasaro.github.io/Project/
+* https://julia-agasaro.github.io/my-first-independent-project/
+* https://julia-agasaro.github.io/Project2/
+* https://julia-agasaro.github.io/Project/
 
 
 
