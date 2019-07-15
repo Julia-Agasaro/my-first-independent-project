@@ -4,7 +4,7 @@
 
 
 
-*The purpose of this application is a brief description of me and Projects i have done  so far.*
+*The purpose of this Websiteis a brief description of me and Projects i have done  so far.*
 
 
 
