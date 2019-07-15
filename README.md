@@ -1,5 +1,6 @@
-# My First Independent Projet
-Agasaro Julia
+# My First Independent Project
+
+**Agasaro Julia**
 
 
 
