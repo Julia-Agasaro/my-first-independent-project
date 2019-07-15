@@ -4,7 +4,11 @@ Agasaro Julia
 
 
 *The purpose of this application is a brief description of me and Projects i have done  so far.*
-#Technologies Used
+
+
+
+
+**Languages Used**
 1. HTML
 1. CSS
 
@@ -18,7 +22,7 @@ Agasaro Julia
 **Links To my Websites**
 * https://julia-agasaro.github.io/my-first-independent-project/
 * https://julia-agasaro.github.io/Project2/
-* https://julia-agasaro.github.io/Project/
+*  https://julia-agasaro.github.io/Project/
 
 
 
