@@ -4,7 +4,7 @@
 
 
 
-*The purpose of this Websiteis a brief description of me and Projects i have done  so far.*
+*The purpose of this Website is a brief description of me and Projects i have done  so far.*
 
 
 
